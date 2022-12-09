@@ -11,6 +11,6 @@ class Test118
 	}
 	public static void fun(Point p)
 	{
-		p.x=30;p.y=40;
+		p.x=30;p.y=40;             
 	}
 }
